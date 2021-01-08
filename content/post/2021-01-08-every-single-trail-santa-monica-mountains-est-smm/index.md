@@ -16,6 +16,7 @@ tags: []
 
 My latest goal is to run every single trail of the Santa Monica Mountains (EST SMM).
 This is inspired by Rickey Gates' project: [Every Single Street](https://www.everysinglestreet.com/), in which he ran every road in San Francisco.
+
 My life has improved dramatically since I started running in October 2019 in Gothenburg, Sweden.
 I had been a boulder for a few years but had stagnated and lost a lot of my motivation.
 Running brought an entirely new mental clarity that helped me through the COVID-19 pandemic.
@@ -32,10 +33,12 @@ I ordered a cheap road bike online on a whim to stay in shape.
 Little did I know how much it would change my life.
 A few weeks after I started biking, I ended up doing my first 100km (62.14 miles) ride in Yosemite Valley of all places.
 
-<img src="/2021-01-08-every-single-trail-santa-monica-mountains-est-smm/index_files/yosemite_100km.jpg" alt="Post first 100km in Yosemite Valley" width="50%"/>
+<center>
+<img src="/post/2021-01-08-every-single-trail-santa-monica-mountains-est-smm/index_files/yosemite_100km.jpg" alt="Post first 100km in Yosemite Valley" width="60%"/>
+</center>
 
 I got addicted to longer rides and kept pushing the distance further every weekend with rides before work most mornings.
-My biggest highlights in terms of distance were back-to-back 100 mile (161km) rides and a 200km ride around the Santa Monica Mountains and through the canyons.
+My biggest highlights in terms of distance were [back](https://www.strava.com/activities/4464098477)-to-[back](https://www.strava.com/activities/4468967371) 100 mile (161km) rides and a [202km ride around the Santa Monica Mountains](https://www.strava.com/activities/4439800104) and through the canyons.
 All of this was over about 6 weeks, which may have been a bit extreme to start with.
 I started using [VeloViewer](https://veloviewer.com/) and [Stats Hunters](https://www.statshunters.com/) to collect "tiles" on the map.
 This ignited a sense of exploration in me and I decided to not only collect all the tiles of the SMMs but to ride to and run every trail of the SMMs.
