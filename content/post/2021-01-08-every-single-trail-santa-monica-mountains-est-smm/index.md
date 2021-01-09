@@ -1,7 +1,7 @@
 ---
 title: Every Single Trail of the Santa Monica Mountains (EST SMM)
 author: Stefan Eng
-date: '2021-01-08'
+date: '2021-12-23'
 slug: every-single-trail-santa-monica-mountains-est-smm
 categories:
   - EST
